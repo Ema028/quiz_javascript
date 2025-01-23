@@ -1,6 +1,6 @@
 # Projeto-nlw
 
-##Tecnologias Utilizadas
+Projeto com lista de perguntas geradas por IA para treinar as seguintes tecnologias:
 
 -HTML
 -CSS
